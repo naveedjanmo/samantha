@@ -4,7 +4,6 @@ import openai
 openai.api_key = ""
 
 COMPLETIONS_MODEL = "text-davinci-003"
-EMBEDDING_MODEL = "text-embedding-ada-002"
 
 conversation = []
 
